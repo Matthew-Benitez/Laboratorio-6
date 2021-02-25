@@ -108,8 +108,10 @@
 
 6. CONCLUSIONES
 
-     
- 
+   - Saber como determinar los distintos tipos de voltaje que hay dentro de un circuito con C.A. es muy útil, ya que en la realidad hay que tomar otros valores además de los obvios, como es el voltaje de amplitud que no es más el voltaje pico que puede medir el osciloscopio; pero el voltaje utilizado es el voltaje RMS que representa el aproximadamente 70% y que es el voltaje de salida de resistor RL del circuito.
+   - El simulador demuestra eficientemente que diferentes tipos de gráficas y combinaciones para medir el voltaje o corriente de una fuente C.A., tanto la división del tiempo que puede ser tomado en microsegundos o milisegundos, o las divisiones de los voltajes los cuáles se ven de una mejor manera dependiendo de la amplitud de voltaje.
+   - Junto con los cálculos que nos brinda un osciloscopio se puede determinar a parte otros datos como son la frecuencia (la cual es hallada con la inversa del periódo) y la frecuencia angular (que se calcula con la fórmula de 2*π*f).
+  
 7. BIBLIOGRAFÍA
 
    - Floyd, T. L. (2007). Principios de circuitos eléctricos (Octava ed.).
