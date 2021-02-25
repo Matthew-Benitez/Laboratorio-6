@@ -98,13 +98,13 @@
 
      5.6. Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.
 
-     ¿Coinciden? 
+      - ¿Coinciden? 
 
-     No
+        No
 
-     ¿Por qué?
+      - ¿Por qué?
 
-     Debido a que el voltaje de salida, el cual es calculado por el multímetro es el Voltaje RMS (es un voltaje equivalente que representa el valor de voltaje DC que producirá el mismo efecto de calentamiento o disipación de potencia en el circuito, como esta tensión de CA.) es diferente al voltaje de amplitud de la fuente de C.A. en el resistor. El voltaje RMS representa el 0.707 de la amplitud de voltaje.
+        Debido a que el voltaje de salida, el cual es calculado por el multímetro es el Voltaje RMS (es un voltaje equivalente que representa el valor de voltaje DC que producirá el mismo efecto de calentamiento o disipación de potencia en el circuito, como esta tensión de CA.) es diferente al voltaje de amplitud de la fuente de C.A. en el resistor. El voltaje RMS representa el 0.707 de la amplitud de voltaje.
 
 6. CONCLUSIONES
 
