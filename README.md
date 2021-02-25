@@ -37,7 +37,7 @@
    
    - Circuito con Osciloscopio y Multímetro
    
-   ![image](https://user-images.githubusercontent.com/75439689/109229531-7281bb00-7791-11eb-9647-09dd5b43a9f3.png)
+   ![image](https://user-images.githubusercontent.com/75439689/109229687-a826a400-7791-11eb-96a6-fad56d25d92e.png)
    
    *Figura 3.4*
    
@@ -49,7 +49,7 @@
    
    - Circuito de Osciloscopio
    
-   ![image](https://user-images.githubusercontent.com/75439689/109229687-a826a400-7791-11eb-96a6-fad56d25d92e.png)
+   ![image](https://user-images.githubusercontent.com/75439689/109229531-7281bb00-7791-11eb-9647-09dd5b43a9f3.png)
    
    *Figura 3.6*
    
