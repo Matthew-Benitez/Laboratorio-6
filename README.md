@@ -108,11 +108,11 @@
 
      Debido a que el voltaje de salida, el cual es calculado por el multímetro es el Voltaje RMS (es un voltaje equivalente que representa el valor de voltaje DC que producirá el mismo efecto de calentamiento o disipación de potencia en el circuito, como esta tensión de CA.) es diferente al voltaje de amplitud de la fuente de C.A. en el resistor. El voltaje RMS representa el 0.707 de la amplitud de voltaje.
 
-   6. CONCLUSIONES
+6. CONCLUSIONES
 
-      - Aplicar el Teorema de Thévenin resulta práctico al momento de analizar un circuito complejo con un número elevado de elementos, ya que este teorema permite obtener un circuito equivalente al original pero mucho más sencillo debido a que este sólo consta de la conexión en serie de la fuente de voltaje (VTH), la resistencia de Thévenin (RTH) y la resistencia o la carga la cuál se desea estudiar.
-      - La precisión del Teorema de Thévenin es alta, ya que en el cálculo del error se obtuvo un porcentaje de 1.03% en las mediciones y un 0.01% en los cálculos (comparando entre los valores del circuito orginial y el circuito equivalente de Thévenin). Lo cual indica que emplear este Teorema resulta útil y práctico.
-      - El concepto que maneja el Teorema de Thévenin (el de obtener un circuito equivalente al original pero con una mínima cantidad de elementos) se puede dar en la construcción de diversos aparatos o dispositivos electrónicos con el fin de abaratar costos en la producción de dichos aparatos ya que contendrían menos elementos.
+     - Aplicar el Teorema de Thévenin resulta práctico al momento de analizar un circuito complejo con un número elevado de elementos, ya que este teorema permite obtener un circuito equivalente al original pero mucho más sencillo debido a que este sólo consta de la conexión en serie de la fuente de voltaje (VTH), la resistencia de Thévenin (RTH) y la resistencia o la carga la cuál se desea estudiar.
+     - La precisión del Teorema de Thévenin es alta, ya que en el cálculo del error se obtuvo un porcentaje de 1.03% en las mediciones y un 0.01% en los cálculos (comparando entre los valores del circuito orginial y el circuito equivalente de Thévenin). Lo cual indica que emplear este Teorema resulta útil y práctico.
+     - El concepto que maneja el Teorema de Thévenin (el de obtener un circuito equivalente al original pero con una mínima cantidad de elementos) se puede dar en la construcción de diversos aparatos o dispositivos electrónicos con el fin de abaratar costos en la producción de dichos aparatos ya que contendrían menos elementos.
  
  
 7. BIBLIOGRAFÍA
