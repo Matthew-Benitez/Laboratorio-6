@@ -100,7 +100,9 @@
   
   5.6. Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.
   
-  ¿Coinciden? No
+  ¿Coinciden? 
+  
+  No
   
   ¿Por qué?
   
