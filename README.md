@@ -62,27 +62,25 @@
 
 5. EXPLICACIÓN
 
-   5.1. Procedimiento
-   
-   
-   
-   5.2. Responda las siguientes preguntas:
-    
-    -	¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
-    
-      La amplitud pico de la señal de salida abarca unos 2 y ¼ de cuadro.
-    
-    -	¿En qué valor está posicionada la perilla VOLTS/DIV?
+  5.1. Procedimiento
 
-      Está posicionado en 3
+  5.2. Responda las siguientes preguntas:
     
-    -	¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
+   - ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
+    
+     La amplitud pico de la señal de salida abarca unos 2 y ¼ de cuadro.
+    
+   - ¿En qué valor está posicionada la perilla VOLTS/DIV?
 
-      Horizontalmente abarca 4 cuadros, y verticalmente abarca 4 y medio de cuadros.
+     Está posicionado en 3
+    
+   - ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
 
-    -	¿En qué valor está posicionada la perilla TIME/DIV?
+     Horizontalmente abarca 4 cuadros, y verticalmente abarca 4 y medio de cuadros.
 
-      Está posicionado en 0.1ms
+   - ¿En qué valor está posicionada la perilla TIME/DIV?
+
+     Está posicionado en 0.1ms
   
   5.3. ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
     
