@@ -2,18 +2,17 @@
 1. OBJETIVOS
 - Objetivo General:
    
-   - Utilizar el teorema de Thévenin para utilizarlo prácticamente dentro de distintios circuitos eléctricos.
+   - Comprender las fuentes de voltaje de C.A. y como estas pueden influir dentro de los circuitos y los componentes de estas.
    
 - Objetivos Específicos:
  
-   - Determinar la resistencia equivalente dentro del circuito.
-   - Determinar el voltaje que circula en una resistencia para obtener la fuente de voltaje de Thévenin.
-   - Obtener el circuito simplificado de Thévenin y comprobar que la corriente y el voltaje que pasan por la resistencia son las mismas.
+   - Observar y comprender los gráficos dentro de un osciloscopio y lo que esto mide y determina.
+   - Encontrar el voltaje de salida de un resistor que está conectado a una fuente de voltaje C.A.
+   - Encontrar todos los tipos de voltaje que hay dentro de un circuito, desde el voltaje pico hasta el voltaje RMS.
    
 2. MARCO TEÓRICO
    
    
-
    
 3. DIAGRAMAS
    - Modelo Del Circuito
@@ -109,10 +108,7 @@
 
 6. CONCLUSIONES
 
-     - Aplicar el Teorema de Thévenin resulta práctico al momento de analizar un circuito complejo con un número elevado de elementos, ya que este teorema permite obtener un circuito equivalente al original pero mucho más sencillo debido a que este sólo consta de la conexión en serie de la fuente de voltaje (VTH), la resistencia de Thévenin (RTH) y la resistencia o la carga la cuál se desea estudiar.
-     - La precisión del Teorema de Thévenin es alta, ya que en el cálculo del error se obtuvo un porcentaje de 1.03% en las mediciones y un 0.01% en los cálculos (comparando entre los valores del circuito orginial y el circuito equivalente de Thévenin). Lo cual indica que emplear este Teorema resulta útil y práctico.
-     - El concepto que maneja el Teorema de Thévenin (el de obtener un circuito equivalente al original pero con una mínima cantidad de elementos) se puede dar en la construcción de diversos aparatos o dispositivos electrónicos con el fin de abaratar costos en la producción de dichos aparatos ya que contendrían menos elementos.
- 
+     
  
 7. BIBLIOGRAFÍA
 
