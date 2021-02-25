@@ -54,7 +54,7 @@
    
 4. LISTA DE COMPONENTES
    
-   ![image](https://user-images.githubusercontent.com/75439689/108274097-7040b080-7142-11eb-98c0-d9c431c00f0b.png)
+   ![image](https://user-images.githubusercontent.com/75439689/109230771-6860bc00-7793-11eb-9236-b720ba65cdb1.png)
    
    *Figura 4.1*
 
