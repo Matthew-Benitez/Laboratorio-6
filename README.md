@@ -12,47 +12,46 @@
    
 2. MARCO TEÓRICO
    
-   ![image](https://user-images.githubusercontent.com/76133212/108288009-ccfb9580-7159-11eb-82cf-7d5c1e920320.png)
+   
 
    
-4. DIAGRAMAS
+3. DIAGRAMAS
    - Modelo Del Circuito
    
-   ![image](https://user-images.githubusercontent.com/75439689/108273068-155a8980-7141-11eb-9c75-171ccb45f0cc.png)
-
+   ![image](https://user-images.githubusercontent.com/75439689/109229447-4e25de80-7791-11eb-8f3d-7d141b53147b.png)
+   
    *Figura 3.1*
    
    - Materiales Del Circuito
    
-   ![image](https://user-images.githubusercontent.com/75439689/108273129-273c2c80-7141-11eb-97c2-a097f8bb2f31.png)
+   ![image](https://user-images.githubusercontent.com/75439689/109229255-0bfc9d00-7791-11eb-8727-b089099d00c5.png)
+
    
    *Figura 3.2*
    
    - Circuito Armado
 
-   ![image](https://user-images.githubusercontent.com/75439689/108273213-43d86480-7141-11eb-91cb-2f60aebcf6ab.png)
+   ![image](https://user-images.githubusercontent.com/75439689/109229313-1cad1300-7791-11eb-9c5a-2270dbd7e4b7.png)
 
    *Figura 3.3*
    
-   - Mediciones de Voltaje y Corriente a través de R5
+   - Circuito con Osciloscopio y Multímetro
    
-   ![image](https://user-images.githubusercontent.com/75439689/108273360-73876c80-7141-11eb-965b-dd38a73e533a.png)
+   ![image](https://user-images.githubusercontent.com/75439689/109229531-7281bb00-7791-11eb-9647-09dd5b43a9f3.png)
    
    *Figura 3.4*
    
-   - Mediciones de Resistencia y Voltaje de Thévenin
+   - Circuito con Multímetro 
    
-   ![image](https://user-images.githubusercontent.com/75439689/108273378-797d4d80-7141-11eb-89ff-b5e4d3256676.png)
-   ![image](https://user-images.githubusercontent.com/75439689/108273538-ae89a000-7141-11eb-88a3-030de9ffd77a.png)
+   ![image](https://user-images.githubusercontent.com/75439689/109229614-9218e380-7791-11eb-887e-3e4747ab3c2c.png)
    
-   *Figura 3.5 y 3.6*
+   *Figura 3.5*
    
-   - Circuito de Thévenin
+   - Circuito de Osciloscopio
    
-   ![image](https://user-images.githubusercontent.com/75439689/108273617-c6612400-7141-11eb-975e-95599b706744.png)
-   ![image](https://user-images.githubusercontent.com/75439689/108273631-cb25d800-7141-11eb-8bf3-0eeae2a5db22.png)
+   ![image](https://user-images.githubusercontent.com/75439689/109229687-a826a400-7791-11eb-96a6-fad56d25d92e.png)
    
-   *Figura 3.7 y 3.8*
+   *Figura 3.6*
    
 4. LISTA DE COMPONENTES
    
