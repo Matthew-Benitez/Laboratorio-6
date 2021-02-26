@@ -62,15 +62,18 @@
 
      5.1. Procedimiento
      
-      - Ingresar a la plataforma de dcaclab y seleccionar los materiales previamente listados.
+      - Ingresar a la plataforma dcaclab y seleccionar los materiales previamente listados.
       - Colocar la fuente de voltaje alterno con los valores requeridos (Vpp=20V y f=2.5kHz).
-      - Dar los valores de la resistencia (R1=1kOhm y RL=2.2kOhm.
+      - Dar los valores de la resistencia (R1=1kOhm y RL=2.2kOhm).
       - Conectar en serie la fuente de voltaje alterno, la resistencia R1 y la resistencia de carga RL e, dicho orden específico.
       - Con el osciloscopio, conectar las terminales del canal A en los extremos de la resistencia de carga RL.
       - Ajustar las perillas del canal A para poder visualizar mejor la función sinusoidal (Y-pos=0; VOLTS/DIV=3; TIME/DIV=0.1ms)
       - Con la función obtenida en el osciloscopio, observar y anotar el valor pico de la onda (Vp) junto con el tiempo que tarda en completar un ciclo (T: Período)
       - Desconectar el oscilocopio de la resistencia de carga y en su lugar conectar las terminales del multímetro en dihca resistencia, cuya perilla debe estar en 12V AC.
       - Observar y anotar el voltaje que tiene la resistencia de carga en el multímetro (Vrms).
+      
+     5.2. Preguntas
+
 
       - ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
 
