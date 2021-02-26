@@ -105,6 +105,10 @@
       - ¿Por qué?
 
         Debido a que el voltaje de salida, el cual es calculado por el multímetro es el Voltaje RMS (es un voltaje equivalente que representa el valor de voltaje DC que producirá el mismo efecto de calentamiento o disipación de potencia en el circuito, como esta tensión de CA.) es diferente al voltaje de amplitud de la fuente de C.A. en el resistor. El voltaje RMS representa el 0.707 de la amplitud de voltaje.
+      
+      5.7. Errores Entre Calculados y Medidos
+      
+      ![image](https://user-images.githubusercontent.com/75439689/109238700-065b8300-77a2-11eb-8069-40f921d22739.png)
 
 6. CONCLUSIONES
 
